@@ -1,0 +1,72 @@
+body {
+    background: rgb(121,9,33);
+    background: linear-gradient(129deg, rgba(121,9,33,1) 12%, rgba(255,0,0,1) 48%, rgba(251,0,0,1) 80%, rgba(97,0,0,1) 100%); 
+    font-family: Montserrat,Rubik;
+      
+}
+
+img {
+    border-radius: 1%;
+    max-width: 100%; 
+    height: auto;
+  } 
+
+.img_div {
+    padding-top:20px;
+    padding-bottom: 20px;    
+    margin: auto;
+    height: auto; 
+    width: auto; 
+    max-width: 100%; 
+    max-height: 100%;
+}
+
+.card_image {
+    height: auto; 
+    width: auto; 
+    max-width: 200px; 
+    max-height: 200px;
+}
+
+.comment_div {
+    padding:20px;
+}
+
+.link_section {
+    padding-top:20px;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+
+  .fa-twitter {
+    color: #00acee;
+  }
+
+  .fa-instagram {
+    color: black;
+  }
+
+  .fa-github {
+    color: black;
+  }
+
+  .fa-linkedin {
+    color: #0e76a8;
+  }
